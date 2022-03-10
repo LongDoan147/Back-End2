@@ -1,2 +1,2 @@
 dây là file Week1
-thuoc branch: week1 va main
+thuoc branch: week1
